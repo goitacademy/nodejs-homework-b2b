@@ -1,4 +1,4 @@
-**Czytaj w innych językach: [rosyjski](README.md), [ukraiński](README.ua.md).**
+**Czytaj w innych językach: [Русский](README.md), [Українська](README.ua.md).**
 
 # GoIT Node.js Course Homework
 
